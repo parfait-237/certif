@@ -1,0 +1,19 @@
+{
+  "name": "certif",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/parfait-237/certif.git"
+  },
+  "author": "parfait",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parfait-237/certif/issues"
+  },
+  "homepage": "https://github.com/parfait-237/certif#readme"
+}
